@@ -1,0 +1,30 @@
+.navbar{
+	background-color: #303030
+}
+.navbar-brand{
+	color: yellow;
+	text-transform: uppercase;
+	
+}
+.nav-link:hover{
+	background-color: #fff;
+	color: #000;
+	border: 2px solid white;
+}
+.active{
+	background-color: #fff;
+	color: #000;
+
+}
+.page-header{
+	text-align: center;
+	text-transform: uppercase;
+}
+.para{
+	text-align: center;
+}
+.footer{
+	background-color: #303030;
+	color:#fff;
+	text-align: center;
+}
